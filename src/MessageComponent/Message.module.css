@@ -1,0 +1,13 @@
+.message_box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    border-radius: 30px;
+    width: 300px;
+    min-height: 100px;
+    background-color: #7AA899; 
+    word-wrap: break-word;
+    color: #27263D;
+}
+
